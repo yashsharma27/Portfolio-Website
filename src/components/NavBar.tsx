@@ -1,4 +1,4 @@
-import weblogo from '../assets/Weblogo.png'
+import weblogo from '../assets/weblogo.png'
 
 
 export default function NavBar() {
